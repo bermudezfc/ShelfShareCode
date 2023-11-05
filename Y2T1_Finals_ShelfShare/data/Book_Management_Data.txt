@@ -1,0 +1,5 @@
+Bold|Tristan|Fiction|232.00|true
+IT|King|Horror|3214.00|true
+Calculus for Dummies|Rex Bookstore|Academic|999.00|true
+1984|George Orwell|Dystopia|324.00|true
+Meditations|Aurelius|Philosophy|200.00|true
